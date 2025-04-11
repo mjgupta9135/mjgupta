@@ -1,0 +1,457 @@
+[
+  {
+    "id": 1,
+    "name": "PM Kisan Samman Nidhi",
+    "description": "A government initiative providing direct income support of \u20b96,000 per year to small and marginal farmers. The scheme aims to ensure financial stability for agricultural households, reducing dependency on informal loans. Farmers receive payments in three equal installments directly into their bank accounts.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": [0, 250000],
+      "occupation": ["Farmer"],
+      "state": "All",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 2,
+    "name": "PM Awas Yojana (Urban)",
+    "description": "A housing scheme targeting urban poor, offering financial assistance for affordable housing. The scheme provides interest subsidies on home loans and encourages the construction of houses equipped with basic amenities. It covers Economically Weaker Sections (EWS), Lower Income Groups (LIG), and Middle Income Groups (MIG).",
+    "eligibility": {
+      "age": [21, 60],
+      "income": [0, 300000],
+      "occupation": "All",
+      "state": "All",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "description": "A labor law ensuring 100 days of wage employment per year to rural households. It aims to provide economic security by guaranteeing minimum wages for manual work and promotes sustainable development by funding labor-intensive projects in rural areas, such as road construction and irrigation facilities.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": "All",
+      "occupation": ["Unemployed", "Labor"],
+      "state": "All",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Pradhan Mantri Ujjwala Yojana",
+    "description": "A welfare scheme that provides free LPG gas connections to women from Below Poverty Line (BPL) households. This initiative aims to replace unhealthy traditional cooking methods with clean fuel, improving indoor air quality and health outcomes for women and children in rural areas.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": [0, 150000],
+      "occupation": "All",
+      "state": "All",
+      "gender": "Female",
+      "caste": ["SC", "ST", "OBC"]
+    }
+  },
+  {
+    "id": 5,
+    "name": "National Fellowship for SC Students",
+    "description": "A government initiative to provide financial support to Scheduled Caste (SC) students pursuing research degrees such as M.Phil. and Ph.D. The program covers tuition fees, study grants, and research assistance, encouraging participation in higher education among SC communities.",
+    "eligibility": {
+      "age": [22, 35],
+      "income": "All",
+      "occupation": ["Student"],
+      "state": "All",
+      "gender": "All",
+      "caste": "SC"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Government Scheme 6",
+    "description": "This is a placeholder description for Government Scheme 6. It provides various benefits for eligible citizens.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": "All",
+      "occupation": "All",
+      "state": "All",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Government Scheme 7",
+    "description": "This is a placeholder description for Government Scheme 7. It provides various benefits for eligible citizens.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": "All",
+      "occupation": "All",
+      "state": "All",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Government Scheme 8",
+    "description": "This is a placeholder description for Government Scheme 8. It provides various benefits for eligible citizens.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": "All",
+      "occupation": "All",
+      "state": "All",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Government Scheme 9",
+    "description": "This is a placeholder description for Government Scheme 9. It provides various benefits for eligible citizens.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": "All",
+      "occupation": "All",
+      "state": "All",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Government Scheme 10",
+    "description": "This is a placeholder description for Government Scheme 10. It provides various benefits for eligible citizens.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": "All",
+      "occupation": "All",
+      "state": "All",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Government Scheme 11",
+    "description": "This is a placeholder description for Government Scheme 11. It provides various benefits for eligible citizens.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": "All",
+      "occupation": "All",
+      "state": "All",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Government Scheme 12",
+    "description": "This is a placeholder description for Government Scheme 12. It provides various benefits for eligible citizens.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": "All",
+      "occupation": "All",
+      "state": "All",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Government Scheme 13",
+    "description": "This is a placeholder description for Government Scheme 13. It provides various benefits for eligible citizens.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": "All",
+      "occupation": "All",
+      "state": "All",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Government Scheme 14",
+    "description": "This is a placeholder description for Government Scheme 14. It provides various benefits for eligible citizens.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": "All",
+      "occupation": "All",
+      "state": "All",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Government Scheme 15",
+    "description": "This is a placeholder description for Government Scheme 15. It provides various benefits for eligible citizens.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": "All",
+      "occupation": "All",
+      "state": "All",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Government Scheme 16",
+    "description": "This is a placeholder description for Government Scheme 16. It provides various benefits for eligible citizens.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": "All",
+      "occupation": "All",
+      "state": "All",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Government Scheme 17",
+    "description": "This is a placeholder description for Government Scheme 17. It provides various benefits for eligible citizens.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": "All",
+      "occupation": "All",
+      "state": "All",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Rajasthan Widow Pension Scheme",
+    "description": "A state-level pension scheme providing financial support to widows in Rajasthan.",
+    "eligibility": {
+      "age": [40, 65],
+      "income": [0, 100000],
+      "occupation": "All",
+      "state": "Rajasthan",
+      "gender": "Female",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Karnataka SC/ST Entrepreneur Support Scheme",
+    "description": "Financial assistance and subsidized loans for SC/ST entrepreneurs in Karnataka.",
+    "eligibility": {
+      "age": [21, 50],
+      "income": [0, 500000],
+      "occupation": ["Entrepreneur"],
+      "state": "Karnataka",
+      "gender": "All",
+      "caste": ["SC", "ST"]
+    }
+  },
+  {
+    "id": 20,
+    "name": "Tamil Nadu Girl Child Protection Scheme",
+    "description": "Financial support for female children from low-income families in Tamil Nadu.",
+    "eligibility": {
+      "age": [0, 18],
+      "income": [0, 150000],
+      "occupation": "Not applicable",
+      "state": "Tamil Nadu",
+      "gender": "Female",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Punjab Small Farmer Assistance Scheme",
+    "description": "Financial aid for small and marginal farmers in Punjab.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": [0, 300000],
+      "occupation": ["Farmer"],
+      "state": "Punjab",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Uttar Pradesh Minority Scholarship Scheme",
+    "description": "Scholarship for minority students in Uttar Pradesh pursuing higher education.",
+    "eligibility": {
+      "age": [17, 30],
+      "income": [0, 250000],
+      "occupation": ["Student"],
+      "state": "Uttar Pradesh",
+      "gender": "All",
+      "caste": ["Muslim", "Christian", "Sikh", "Buddhist"]
+    }
+  },
+  {
+    "id": 23,
+    "name": "West Bengal Kanyashree Prakalpa",
+    "description": "A scheme providing financial assistance to female students in West Bengal.",
+    "eligibility": {
+      "age": [13, 18],
+      "income": [0, 200000],
+      "occupation": ["Student"],
+      "state": "West Bengal",
+      "gender": "Female",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Maharashtra Tribal Welfare Housing Scheme",
+    "description": "Housing assistance for tribal families in Maharashtra.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": [0, 150000],
+      "occupation": "All",
+      "state": "Maharashtra",
+      "gender": "All",
+      "caste": ["ST"]
+    }
+  },
+  {
+    "id": 25,
+    "name": "Madhya Pradesh Ladli Laxmi Yojana",
+    "description": "Financial aid for the education and welfare of girl children in Madhya Pradesh.",
+    "eligibility": {
+      "age": [0, 21],
+      "income": [0, 200000],
+      "occupation": "Not applicable",
+      "state": "Madhya Pradesh",
+      "gender": "Female",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Bihar Kushal Yuva Program",
+    "description": "A skill development program for unemployed youth in Bihar.",
+    "eligibility": {
+      "age": [18, 35],
+      "income": [0, 300000],
+      "occupation": ["Unemployed"],
+      "state": "Bihar",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Odisha Mission Shakti",
+    "description": "Financial aid and skill training for women entrepreneurs in Odisha.",
+    "eligibility": {
+      "age": [18, 50],
+      "income": [0, 250000],
+      "occupation": ["Entrepreneur"],
+      "state": "Odisha",
+      "gender": "Female",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Haryana SC Free Coaching Scheme",
+    "description": "Coaching support for Scheduled Caste students in Haryana preparing for competitive exams.",
+    "eligibility": {
+      "age": [18, 30],
+      "income": [0, 400000],
+      "occupation": ["Student"],
+      "state": "Haryana",
+      "gender": "All",
+      "caste": ["SC"]
+    }
+  },
+  {
+    "id": 29,
+    "name": "Gujarat Farmer Solar Pump Subsidy Scheme",
+    "description": "Subsidized solar pumps for small and marginal farmers in Gujarat.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": [0, 500000],
+      "occupation": ["Farmer"],
+      "state": "Gujarat",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Kerala Women Empowerment Loan Scheme",
+    "description": "Low-interest loans for women entrepreneurs in Kerala.",
+    "eligibility": {
+      "age": [21, 55],
+      "income": [0, 400000],
+      "occupation": ["Entrepreneur"],
+      "state": "Kerala",
+      "gender": "Female",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Assam Tea Garden Worker Welfare Scheme",
+    "description": "Health and education benefits for tea garden workers in Assam.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": [0, 200000],
+      "occupation": ["Labor"],
+      "state": "Assam",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Jharkhand PVTG Development Program",
+    "description": "Livelihood support for Particularly Vulnerable Tribal Groups (PVTGs) in Jharkhand.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": [0, 200000],
+      "occupation": "All",
+      "state": "Jharkhand",
+      "gender": "All",
+      "caste": ["ST"]
+    }
+  },
+  {
+    "id": 33,
+    "name": "Chhattisgarh Dairy Entrepreneurship Development Scheme",
+    "description": "Support for dairy farmers in Chhattisgarh.",
+    "eligibility": {
+      "age": [18, 55],
+      "income": [0, 300000],
+      "occupation": ["Dairy Farmer"],
+      "state": "Chhattisgarh",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Goa Startup Promotion Scheme",
+    "description": "Financial aid for startups in Goa.",
+    "eligibility": {
+      "age": [21, 45],
+      "income": [0, 1000000],
+      "occupation": ["Entrepreneur"],
+      "state": "Goa",
+      "gender": "All",
+      "caste": "All"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Sikkim Organic Farming Subsidy",
+    "description": "Support for organic farmers in Sikkim.",
+    "eligibility": {
+      "age": [18, 60],
+      "income": [0, 400000],
+      "occupation": ["Farmer"],
+      "state": "Sikkim",
+      "gender": "All",
+      "caste": "All"
+    }
+  }
+]
